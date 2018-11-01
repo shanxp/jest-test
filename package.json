@@ -1,0 +1,19 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "supertest": "^3.3.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
